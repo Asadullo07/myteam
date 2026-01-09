@@ -4,6 +4,8 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    cursor: pointer;
+    font-family: sans-serif;
 }
 
 header {
@@ -88,6 +90,7 @@ nav ul li .number {
     display: flex;
     gap: 250px;
     height: 80px;
+    background: #F3F3F3;
 }
 
 .catalogue ul li input {
@@ -98,4 +101,10 @@ nav ul li .number {
     background-repeat: no-repeat;
     background-position: right 10px center;
     height: 30px;
+}
+
+.big_img {
+    width: 100%;
+    height: 500px;
+    background-image: url("./assets/mainimg.png");
 }
