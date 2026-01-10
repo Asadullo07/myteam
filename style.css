@@ -108,3 +108,66 @@ nav ul li .number {
     height: 500px;
     background-image: url("./assets/mainimg.png");
 }
+.are{
+    padding-top: 105px;
+    padding-left: 120px;
+    width: 788px;
+    height: 600px;
+    background: #FFFFFFCC;
+
+}
+.are h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 44px;
+    width: 600px;
+    height: 124px;
+    color: #2D2D2D;
+}
+
+.are p {
+    width: 435px;
+    height: 75px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2D2D2D;
+}
+
+.button_div button:nth-child(1) {
+    width: 219px;
+    height: 50px;
+    background: #FCB427;
+    border: none;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    border-radius: 2px;
+}
+
+.button_div button:nth-child(2) {
+    width: 219px;
+    height: 50px;
+    border: 1px solid #2D2D2D;
+    background: none;
+}
+.lr{
+    margin-top: -160px;
+    margin-left: 727px;
+}
+.lr button{
+    border: none;
+    width: 60px;
+    height: 60px;
+}
+.lr button:nth-child(1){
+    border: 1px solid #F3F3F3;
+    background: #C4C4C420;
+    color: #FFFFFF;
+}
+
+.lr button:nth-child(2){
+    background: #FCB427;
+color: #FFFFFF;
+}
