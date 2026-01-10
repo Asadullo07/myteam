@@ -108,7 +108,8 @@ nav ul li .number {
     height: 500px;
     background-image: url("./assets/mainimg.png");
 }
-.are{
+
+.are {
     padding-top: 105px;
     padding-left: 120px;
     width: 788px;
@@ -116,6 +117,7 @@ nav ul li .number {
     background: #FFFFFFCC;
 
 }
+
 .are h1 {
     font-family: sans-serif;
     font-weight: 700;
@@ -152,22 +154,25 @@ nav ul li .number {
     border: 1px solid #2D2D2D;
     background: none;
 }
-.lr{
+
+.lr {
     margin-top: -160px;
     margin-left: 727px;
 }
-.lr button{
+
+.lr button {
     border: none;
     width: 60px;
     height: 60px;
 }
-.lr button:nth-child(1){
+
+.lr button:nth-child(1) {
     border: 1px solid #F3F3F3;
     background: #C4C4C420;
     color: #FFFFFF;
 }
 
-.lr button:nth-child(2){
+.lr button:nth-child(2) {
     background: #FCB427;
-color: #FFFFFF;
+    color: #FFFFFF;
 }
