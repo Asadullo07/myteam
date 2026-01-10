@@ -176,3 +176,66 @@ nav ul li .number {
     background: #FCB427;
     color: #FFFFFF;
 }
+
+.kranlar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.kranlar img {
+    width: 648px;
+    height: 400px;
+    margin-top: 50px;
+}
+
+.h1_kran {
+    align-items: center;
+    margin-left: 215px;
+}
+
+.h1_kran h1 {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #2D2D2D;
+    margin-top: 40px;
+}
+
+.h1_kran h1 span {
+    color: #FCB427;
+}
+
+.text_kran h1 {
+    width: 350px;
+    height: 47px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+    text-align: center;
+    color: #2D2D2D;
+    margin-left: -20px;
+}
+
+.text_kran p {
+    width: 500px;
+    height: auto;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2D2D2D;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.text_kran button {
+    width: 219px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+    background: #FCB427;
+    border: none;
+    border-radius: 2px;
+}
